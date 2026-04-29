@@ -19,10 +19,6 @@ esto es un ejemplo de un parrafo <br>
 esto es un ejemplo de un parrafo
 esto es un ejemplo de un parrafo
 
-## Identidad de la institucion
-### eliminar esto si no lo creen necesario
-el color del fondo `#1d4ed8` <br>
-el color del esqueleto `#e4e4e7` <br>
-el color de la institucion `#2563eb` <br>
-
-el color de la institucion `rgb(9, 105, 218)` <br>
+## Montaje del proyecto
+>[!NOTE]
+>Para poder montar el proyecto tienes que ejecutar el comando npm install para que se instalen todas las librerias y dependencias que se requieren
