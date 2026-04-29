@@ -24,3 +24,5 @@ esto es un ejemplo de un parrafo
 el color del fondo `#1d4ed8` <br>
 el color del esqueleto `#e4e4e7` <br>
 el color de la institucion `#2563eb` <br>
+
+el color de la institucion `#0969DA` <br>
