@@ -1,5 +1,9 @@
 # Examen del 3er parcial para la materia de Topicos avanzados de desarrollo web
 
+<p align="center">
+  <img src="src/assets/logosTEc.png" width="50%" alt="Descripción de la imagen">
+</p>
+
 ## Integrantes del equipo
 
 - MORALES RAMIREZ MARIANO
@@ -27,4 +31,4 @@ describir la funcionalidad agregada
   <img src="src/assets/Foto_espectro_fantastruco.webp" width="50%" alt="Descripción de la imagen">
 </p>
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](src/assets/Foto_espectro_fantastruco.webp)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](src/assets/logosTEc.png)
