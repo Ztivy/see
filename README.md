@@ -23,4 +23,8 @@ describir la funcionalidad agregada
 >[!WARNING]
 > Para que la funcione a su totalidad se tiene que crear el **.env** en la raiz, luego copiar lo que tiene el **.env.example** para que funcione
 
+<p align="center">
+  <img src="src/assets/Foto_espectro_fantastruco.webp" width="50%" alt="Descripción de la imagen">
+</p>
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](src/assets/Foto_espectro_fantastruco.webp)
