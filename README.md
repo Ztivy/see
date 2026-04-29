@@ -18,3 +18,9 @@
 esto es un ejemplo de un parrafo <br>
 esto es un ejemplo de un parrafo
 esto es un ejemplo de un parrafo
+
+## Identidad de la institucion
+### eliminar esto si no lo creen necesario
+el color del fondo `#1d4ed8`
+el color del esqueleto `#e4e4e7`
+el color de la institucion `#2563eb`
