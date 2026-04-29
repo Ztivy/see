@@ -1,7 +1,7 @@
 # Examen del 3er parcial para la materia de Topicos avanzados de desarrollo web
 
 <p align="center">
-  <img src="src/assets/logosTEc.png" width="50%" alt="Descripción de la imagen">
+  <img src="src/assets/logosTEc.png" alt="Descripción de la imagen">
 </p>
 
 ## Integrantes del equipo
