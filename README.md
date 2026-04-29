@@ -14,7 +14,5 @@
 
 ## Funcionalidad adicional 
 esto es un ejemplo de un parrafo
-
 esto es un ejemplo de un parrafo
-
 esto es un ejemplo de un parrafo
