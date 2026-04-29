@@ -25,4 +25,4 @@ el color del fondo `#1d4ed8` <br>
 el color del esqueleto `#e4e4e7` <br>
 el color de la institucion `#2563eb` <br>
 
-el color de la institucion `#0969DA` <br>
+el color de la institucion `rgb(9, 105, 218)` <br>
