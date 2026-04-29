@@ -19,6 +19,10 @@ esto es un ejemplo de un parrafo <br>
 esto es un ejemplo de un parrafo
 esto es un ejemplo de un parrafo
 
-## Montaje del proyecto
+## Montaje de la aplicacion
 >[!NOTE]
->Para poder montar el proyecto tienes que ejecutar el comando npm install para que se instalen todas las librerias y dependencias que se requieren
+>Para poder montar la aplicacion tienes que ejecutar el comando **npm install** para que se instalen todas las librerias y dependencias que se requieren
+
+
+>[!WARNING]
+> Para que la funcione a su totalidad se tiene que crear el .env en la raiz, luego copiar lo que tiene el .env.example para que funcione
