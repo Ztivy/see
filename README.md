@@ -10,4 +10,11 @@
 
 ### React + Vite
 
-## Enlace al deploy de la aplicacion [poner aqui donde se realzo el deploy](https://github.com/hazahart/sii-tecnm-celaya-app)
+## Enlace al deploy de la aplicacion [poner aqui donde se realzo el deploy y el nombre](https://github.com/hazahart/sii-tecnm-celaya-app)
+
+## Funcionalidad adicional 
+esto es un ejemplo de un parrafo
+
+esto es un ejemplo de un parrafo
+
+esto es un ejemplo de un parrafo
