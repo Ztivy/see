@@ -22,3 +22,5 @@ describir la funcionalidad agregada
 
 >[!WARNING]
 > Para que la funcione a su totalidad se tiene que crear el **.env** en la raiz, luego copiar lo que tiene el **.env.example** para que funcione
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](assets/Foto_espectro_fantastruco.webp)
